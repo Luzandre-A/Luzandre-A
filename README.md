@@ -5,6 +5,13 @@
 - 📫 How to reach me.Via LinkedIn and email.
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: A Vampire Diaries Fan
+  
+👑UP-TO-DATE SOFTWARE DEVELOPMENT JOURNEY:
+- Software Developer : Front-end; Website-Web developer
+- Programming Languages: HTML,CSS, JavaScript
+- Accomplishments: Shecodes Basics Certificate; Introduction to coding
+- Current ongoing professional development: Shecodes Plus Certificate and FNB App 
+  Academy Certificate.
 
 <!---
 Luzandre-A/Luzandre-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
