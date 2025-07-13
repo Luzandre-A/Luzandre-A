@@ -13,8 +13,8 @@
 - Software Developer : Front-end; Website-Web developer
 - Programming Languages: HTML,CSS, JavaScript
 - Accomplishments: Shecodes Basics Certificate; Introduction to coding
-- Current ongoing professional development: Shecodes Plus Certificate and FNB App 
-  Academy Certificate.
+- FNB App Academy Certificate in Full Stack Development
+- Current ongoing professional development: Shecodes Plus Certificate
 
 <!---
 Luzandre-A/Luzandre-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
